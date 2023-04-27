@@ -2,7 +2,7 @@
 %                                In-File setup                                %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass[stu, hidelinks, floatsintext, 12pt, a4paper]{apa7}
-\input{./setup/setup.tex}
+\usepackage{setup}
 \addbibresource{./library/my-library.bib}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
